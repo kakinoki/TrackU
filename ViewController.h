@@ -14,6 +14,7 @@
     ViewController *viewController;
 }
 
+// test
 @property (strong, nonatomic) CLLocationManager* locationManager;
 @property (strong, nonatomic) ViewController* viewController;
 @property (weak, nonatomic) IBOutlet UITextField *longitudeText;
